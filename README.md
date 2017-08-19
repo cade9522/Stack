@@ -1,5 +1,5 @@
 # Stack
-**Creating a stack and associated functions using a doubly linked list**
+**Create a stack and associated functions using a doubly linked list**
 
 ---
 ### Objective
