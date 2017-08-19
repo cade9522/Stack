@@ -7,13 +7,11 @@ Design a Stack class using a doubly linked list as a basis. Include various
 expected member functions such as a deep copy contructor, destructor,
 and push/pull/peek methods.
 
----
 # Files
 - Stack.hpp, function declarations
 - Stack.cpp, function definitions
 - driver.cpp, main() method
 
----
 # Defined Functions
 *in Stack.hpp/Stack.cpp*
 
@@ -26,7 +24,6 @@ and push/pull/peek methods.
 **Entry peek() const:** Return value from top of Stack
 **bool isEmpty() const:** Returns if Stack is empty or not
 
----
 # Instructions of Use
 - To run, open your favorite C++ compiler (I used JetBrains CLion)
 - Add all files within the /docs folder
