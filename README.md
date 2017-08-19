@@ -23,6 +23,8 @@ and push/pull/peek methods.
 - **Entry pop():** Remove and return value from top of Stack
 - **Entry peek() const:** Return value from top of Stack
 - **bool isEmpty() const:** Returns if Stack is empty or not
+- **void deleteList(DNode* head):** Helper function for the destructor
+- **void copyList(DNode* head, DNode* og):** Helper function for the copy constructor
 
 ### Instructions of Use
 - To run, open your favorite C++ compiler (I used JetBrains CLion)
