@@ -1,6 +1,5 @@
 //
-// Author: Christian Evans, modified from skeleton
-//         code written by Professor Andrew Hughes
+// Author: Andrew Hughes, modified comments and layout by Christian Evans
 //
 
 #ifndef AFOUR_STACK_H
