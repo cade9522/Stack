@@ -13,16 +13,16 @@ and push/pull/peek methods.
 - driver.cpp, main() method
 
 # Defined Functions
-*in Stack.hpp/Stack.cpp*
+**in Stack.hpp/Stack.cpp*
 
-**Stack():** General constructor
-**Stack(const Stack& other):** Deep copy constructor
-**Stack& operator=(const Stack& other):** Deep copy assinment operator
-**~Stack():** Destructor, no memory leaks!
-**void push(const Entry& value):** Add value to top of Stack
-**Entry pop():** Remove and return value from top of Stack
-**Entry peek() const:** Return value from top of Stack
-**bool isEmpty() const:** Returns if Stack is empty or not
+- **Stack():** General constructor
+- **Stack(const Stack& other):** Deep copy constructor
+- **Stack& operator=(const Stack& other):** Deep copy assinment operator
+- **~Stack():** Destructor, no memory leaks!
+- **void push(const Entry& value):** Add value to top of Stack
+- **Entry pop():** Remove and return value from top of Stack
+- **Entry peek() const:** Return value from top of Stack
+- **bool isEmpty() const:** Returns if Stack is empty or not
 
 # Instructions of Use
 - To run, open your favorite C++ compiler (I used JetBrains CLion)
