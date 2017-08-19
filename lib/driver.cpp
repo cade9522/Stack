@@ -1,3 +1,7 @@
+//
+// Author: Christian Evans
+//
+
 #include "Stack.h"
 #include <iostream>
 
