@@ -8,12 +8,12 @@ expected member functions such as a deep copy contructor, destructor,
 and push/pull/peek methods.
 
 ### Files
-- Stack.hpp, function declarations
-- Stack.cpp, function definitions
-- driver.cpp, main() method
+- [Stack.h](lib/Stack.h), function declarations
+- [Stack.cpp](lib/Stack.cpp), function definitions
+- [driver.cpp](lib/driver.cpp), main() method
 
 ### Defined Functions
-**in Stack.hpp/Stack.cpp*
+**in Stack.h/Stack.cpp*
 
 - **Stack():** General constructor
 - **Stack(const Stack& other):** Deep copy constructor
@@ -33,4 +33,4 @@ and push/pull/peek methods.
 ---
 *Skeleton code and documentation written by Professor Andrew Hughes of the 
 SUNY University at Buffalo. For more information, view the detailed
-assignment documentation (A4.pdf).*
+assignment documentation ([A4.pdf](docs/A4.pdf)).*
